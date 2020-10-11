@@ -1,0 +1,5 @@
+paste these lines in your mysql client one-by-one 
+create database testdb;
+create table  class_10 (days char(3),I varchar(10),II varchar(10),III varchar(10),IV varchar(10),V varchar(10),VI varchar(10),VII varchar(10),VIII varchar(10));
+create table  class_11 (days char(3),I varchar(10),II varchar(10),III varchar(10),IV varchar(10),V varchar(10),VI varchar(10));
+create table  class_12 (days char(3),I varchar(10),II varchar(10),III varchar(10),IV varchar(10),V varchar(10),VI varchar(10));
